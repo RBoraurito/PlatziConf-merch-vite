@@ -9,8 +9,9 @@ import {
   Success,
   NotFound
 } from '@/containers'
-
 import { Layout } from '@/components';
+
+import '@/styles/components/App.css'
 
 const App = () => (
   <BrowserRouter>
